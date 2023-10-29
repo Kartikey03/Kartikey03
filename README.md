@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from India.</h3>
 
 - 🔭 I’m currently working on:
-- 1. [Legal Ease AI](https://github.com/Debuggers001/LegalEaseAI)
+  1. [Legal Ease AI](https://github.com/Debuggers001/LegalEaseAI)
   2. [Factual Eye](https://github.com/Debuggers001/FactualEye)
   3. [Venue Vista](https://github.com/Debuggers001/Venue-Vista)
 
