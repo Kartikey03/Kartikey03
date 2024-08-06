@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartikey Sharma</h1>
 <h3 align="center">A Developer from India.</h3>
 
-- 🔭 I’m currently working on:
-  1. [Legal Ease AI](https://github.com/Debuggers001/LegalEaseAI)
-  2. [Quiz App in Flutter](https://github.com/Kartikey03/quizzapp)
-  3. [Trikon - Event Management App](https://github.com/Kartikey03/Trikon)
-
-- 🌱 I’m currently learning **Java, Flutter and scikit_learn**
+- 🌱 I’m currently learning **Java, Kotlin and Flutter**
 
 - 👯 I’m looking to collaborate on [Tensorflow.io](https://github.com/tensorflow/io)
 
